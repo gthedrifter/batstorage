@@ -1,1 +1,2 @@
 This is a file for me to push to the repository 
+Now that ive done the push intot the repository i shall try to do a pull down from teh repository 
